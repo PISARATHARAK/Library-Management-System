@@ -1,0 +1,32 @@
+[
+    {
+        "title": "DBMS",
+        "author": "Tharak",
+        "isbn": "12345"
+    },
+    {
+        "title": "DBMS",
+        "author": "Tharak",
+        "isbn": "12345"
+    },
+    {
+        "title": "DBMS",
+        "author": "Tharak",
+        "isbn": "12345"
+    },
+    {
+        "title": "Updated C++",
+        "author": "Updated Sandeep",
+        "isbn": "67890"
+    },
+    {
+        "title": "DBMS",
+        "author": "Tharak",
+        "isbn": "12345"
+    },
+    {
+        "title": "C++",
+        "author": "Sandeep",
+        "isbn": "67890"
+    }
+]
